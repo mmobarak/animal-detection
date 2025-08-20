@@ -1,5 +1,9 @@
 # Wildlife Detection Model Training Data
 
+## Downloaded Data
+
+- [Pixbay - Ducks, mallard, plumage free stock video. Free for use & download.](https://pixabay.com/videos/ducks-mallard-plumage-lake-feather-79865/)
+
 ## Data Sources
 
 ### 1. Dedicated Machine Learning & Research Datasets
